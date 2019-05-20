@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello this is Nikhil Saini and My birthday is on 6th of July and this is my first app which i am developing on the night of 1 march and now it's march of 2nd and the time is 1am i am excited for this app"
+        android:textSize="22sp"
+        android:textIsSelectable="true"
+       />
+
+</android.support.constraint.ConstraintLayout>
